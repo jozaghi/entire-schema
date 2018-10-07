@@ -1,0 +1,28 @@
+{
+  "name": "entire-schema",
+  "version": "0.0.0",
+  "description": "schema validation for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jozaghi/entire-schema.git"
+  },
+  "keywords": [
+    "schema",
+    "validation",
+    "type",
+    "type-validation"
+  ],
+  "author": "Alireza Jozaghi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jozaghi/entire-schema/issues"
+  },
+  "homepage": "https://github.com/jozaghi/entire-schema#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}

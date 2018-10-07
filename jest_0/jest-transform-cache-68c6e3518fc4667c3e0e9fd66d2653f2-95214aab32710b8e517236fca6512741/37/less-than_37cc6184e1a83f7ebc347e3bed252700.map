@@ -1,0 +1,1 @@
+{"version":3,"sources":["less-than.js"],"names":["module","exports","lessThan","num","data"],"mappings":";;AAGAA,OAAOC,OAAP,CAAeC,QAAf,GAAwB,CAACC,GAAD,EAAKC,IAAL,KAAY;AAChC,WAAOA,OAAKD,GAAZ;AACH,CAFD","file":"less-than.js","sourcesContent":["\n\n\nmodule.exports.lessThan=(num,data)=>{\n    return data<num;\n}"]}

@@ -1,0 +1,10 @@
+0c547b25ca5cbad67cf768c12674402a
+const { lessThan } = require('./less-than');
+
+describe("less than rule", () => {
+
+    it("lessThan-grather value-returns true", () => {
+        expect(lessThan(10, 5)).toBe(true);
+    });
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImxlc3MtdGhhbi50ZXN0LmpzIl0sIm5hbWVzIjpbImxlc3NUaGFuIiwicmVxdWlyZSIsImRlc2NyaWJlIiwiaXQiLCJleHBlY3QiLCJ0b0JlIl0sIm1hcHBpbmdzIjoiQUFBQSxNQUFNLEVBQUVBLFFBQUYsS0FBY0MsUUFBUSxhQUFSLENBQXBCOztBQUVBQyxTQUFTLGdCQUFULEVBQTBCLE1BQUk7O0FBRTFCQyxPQUFHLHFDQUFILEVBQXlDLE1BQUk7QUFDekNDLGVBQU9KLFNBQVMsRUFBVCxFQUFZLENBQVosQ0FBUCxFQUF1QkssSUFBdkIsQ0FBNEIsSUFBNUI7QUFDSCxLQUZEO0FBSUgsQ0FORCIsImZpbGUiOiJsZXNzLXRoYW4udGVzdC5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IHsgbGVzc1RoYW4gfSA9cmVxdWlyZSgnLi9sZXNzLXRoYW4nKVxuXG5kZXNjcmliZShcImxlc3MgdGhhbiBydWxlXCIsKCk9PntcblxuICAgIGl0KFwibGVzc1RoYW4tZ3JhdGhlciB2YWx1ZS1yZXR1cm5zIHRydWVcIiwoKT0+e1xuICAgICAgICBleHBlY3QobGVzc1RoYW4oMTAsNSkpLnRvQmUodHJ1ZSk7XG4gICAgfSk7XG5cbn0pIl19

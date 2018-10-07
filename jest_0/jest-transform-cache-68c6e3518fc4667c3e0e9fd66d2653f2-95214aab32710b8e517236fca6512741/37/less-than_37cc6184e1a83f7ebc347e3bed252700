@@ -1,0 +1,7 @@
+113c8a341ff19e651ef74d1f9fe7b54d
+
+
+module.exports.lessThan = (num, data) => {
+    return data < num;
+};
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImxlc3MtdGhhbi5qcyJdLCJuYW1lcyI6WyJtb2R1bGUiLCJleHBvcnRzIiwibGVzc1RoYW4iLCJudW0iLCJkYXRhIl0sIm1hcHBpbmdzIjoiOztBQUdBQSxPQUFPQyxPQUFQLENBQWVDLFFBQWYsR0FBd0IsQ0FBQ0MsR0FBRCxFQUFLQyxJQUFMLEtBQVk7QUFDaEMsV0FBT0EsT0FBS0QsR0FBWjtBQUNILENBRkQiLCJmaWxlIjoibGVzcy10aGFuLmpzIiwic291cmNlc0NvbnRlbnQiOlsiXG5cblxubW9kdWxlLmV4cG9ydHMubGVzc1RoYW49KG51bSxkYXRhKT0+e1xuICAgIHJldHVybiBkYXRhPG51bTtcbn0iXX0=
